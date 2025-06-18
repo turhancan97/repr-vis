@@ -10,7 +10,7 @@ torch.manual_seed(SEED)
 np.random.seed(SEED)
 random.seed(SEED)
 
-repr_dic = "/shared/results/common/kargin/unreal_engine/features"
+repr_dic = "/shared/results/common/kargin/unreal_engine/features/initial_test"
 MODEL = "dino"
 FEATURES = "CLS"
 N_EPOCHS = 300
